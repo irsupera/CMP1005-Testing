@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{EBDC8536-5C12-4A42-B222-2C245CCD1B7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{57F68102-6B12-4C67-9AD3-2AA6671C4F73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSTest", "MSTest\MSTest.csproj", "{215FEECF-9611-45FA-B92D-FE442BBFD779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBDC8536-5C12-4A42-B222-2C245CCD1B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDC8536-5C12-4A42-B222-2C245CCD1B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDC8536-5C12-4A42-B222-2C245CCD1B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDC8536-5C12-4A42-B222-2C245CCD1B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F68102-6B12-4C67-9AD3-2AA6671C4F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F68102-6B12-4C67-9AD3-2AA6671C4F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F68102-6B12-4C67-9AD3-2AA6671C4F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F68102-6B12-4C67-9AD3-2AA6671C4F73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{215FEECF-9611-45FA-B92D-FE442BBFD779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215FEECF-9611-45FA-B92D-FE442BBFD779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215FEECF-9611-45FA-B92D-FE442BBFD779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215FEECF-9611-45FA-B92D-FE442BBFD779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AB6579D-4EDA-4437-AF10-AB358BCDD4D5}
+	EndGlobalSection
+EndGlobal
