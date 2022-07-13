@@ -131,6 +131,64 @@ namespace MSTest
             Assert.AreEqual(expected, calc.Subtract(left, right));
         }
 
+        //Multiplication
+
+        [TestMethod]
+        [DataRow(2, 2, 1)]
+        public void CalcCanMultiplyTwoPositiveIntegerNumbers(double expected, double left, double right)
+        {
+            Assert.AreEqual(expected, calc.Multiply(left, right));
+        }
+
+        [TestMethod]
+        [DataRow(2, -2, -1)]
+        public void CalcCanMultiplyTwoNegativeIntegerNumbers(double expected, double left, double right)
+        {
+            Assert.AreEqual(expected, calc.Multiply(left, right));
+        }
+
+        [TestMethod]
+        [DataRow(-2, -2, 1)]
+        public void CalcCanMultiplyTwoOpositeSignsIntegerNumbersWithNegativeLeft(double expected, double left, double right)
+        {
+            Assert.AreEqual(expected, calc.Multiply(left, right));
+        }
+
+        [TestMethod]
+        [DataRow(-2, 2, -1)]
+        public void CalcMultiplyAddTwoOpositeSignsIntegerNumbersWithNegativeRight(double expected, double left, double right)
+        {
+            Assert.AreEqual(expected, calc.Multiply(left, right));
+        }
+
+        [TestMethod]
+        [DataRow(2.31, 2.1, 1.1)]
+        public void CalcCanMultiplyTwoPositiveDecimalNumbers(double expected, double left, double right)
+        {
+            Assert.AreEqual(expected, calc.Multiply(left, right));
+        }
+
+        [TestMethod]
+        [DataRow(2.31, -2.1, -1.1)]
+        public void CalcCanMultiplyTwoNegativeDecimalNumbers(double expected, double left, double right)
+        {
+            Assert.AreEqual(expected, calc.Multiply(left, right));
+        }
+
+        [TestMethod]
+        [DataRow(-2.31, -2.1, 1.1)]
+        public void CalcCanMultiplyTwoOpositeSignsDecimalNumbersWithNegativeLeft(double expected, double left, double right)
+        {
+            Assert.AreEqual(expected, calc.Multiply(left, right));
+        }
+
+        [TestMethod]
+        [DataRow(-2.31, 2.1, -1.1)]
+        public void CalcCanMultiplyTwoOpositeSignsDecimalNumbersWithNegativeRight(double expected, double left, double right)
+        {
+            Assert.AreEqual(expected, calc.Multiply(left, right));
+        }
+
         //Division
 
         [TestMethod]

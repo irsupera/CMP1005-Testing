@@ -16,7 +16,7 @@ namespace Calculator_logic
 
         public double Multiply(double left, double right)
         {
-            return left * right;
+            return Math.Round(left * right,2);
         }
 
         public double Divide(double left, double right)
