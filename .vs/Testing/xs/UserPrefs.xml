@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{219D1D92-65F7-4791-8C5B-7A92C3343DD8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MSTest/UnitTest1.cs">
+    <Files>
+      <File FileName="Calculator/Calculator.cs" Line="9" Column="19" />
+      <File FileName="MSTest/UnitTest1.cs" Line="10" Column="13" />
+      <File FileName="Calculator_API/Controllers/CalculatorController.cs" Line="26" Column="20" />
+      <File FileName="Calculator_API/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="Calculator_API/WeatherForecast.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Testing" expanded="True">
+            <Node name="Calculator" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Calculator_API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="MSTest" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+            <Node name="Testing" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Testing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Calculator__API PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

@@ -6135,11 +6135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/irsupera/Documents/CMP-1005/Testing/MSTest/MSTest.csproj",
+      "projectUniqueName": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/MSTest/MSTest.csproj",
       "projectName": "MSTest",
-      "projectPath": "/Users/irsupera/Documents/CMP-1005/Testing/MSTest/MSTest.csproj",
+      "projectPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/MSTest/MSTest.csproj",
       "packagesPath": "/Users/irsupera/.nuget/packages/",
-      "outputPath": "/Users/irsupera/Documents/CMP-1005/Testing/MSTest/obj/",
+      "outputPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/MSTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/irsupera/.config/NuGet/NuGet.Config"
@@ -6154,8 +6154,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/irsupera/Documents/CMP-1005/Testing/Calculator/Calculator.csproj": {
-              "projectPath": "/Users/irsupera/Documents/CMP-1005/Testing/Calculator/Calculator.csproj"
+            "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/Calculator.csproj": {
+              "projectPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/Calculator.csproj"
             }
           }
         }

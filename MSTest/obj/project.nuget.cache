@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bfny33tn+cMeTB01QLx5qPgRlfFbNePbr/bLKUjI1JabcxqV8ayydU90rM+M2OqJVJWlqCjoWxpCd19vIekDDg==",
+  "dgSpecHash": "ybAZUAiYcX0qDcWTsaNXa6ZDh1XkYoPEbC65fNOovuUpjLc4nP6fgOZpD8TSuXYaxg3O2e3WrcBUjxxtO7KiqA==",
   "success": true,
-  "projectFilePath": "/Users/irsupera/Documents/CMP-1005/Testing/MSTest/MSTest.csproj",
+  "projectFilePath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/MSTest/MSTest.csproj",
   "expectedPackageFiles": [
     "/Users/irsupera/.nuget/packages/coverlet.collector/3.0.2/coverlet.collector.3.0.2.nupkg.sha512",
     "/Users/irsupera/.nuget/packages/microsoft.codecoverage/16.9.4/microsoft.codecoverage.16.9.4.nupkg.sha512",

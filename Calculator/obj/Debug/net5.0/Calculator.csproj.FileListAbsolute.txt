@@ -10,3 +10,15 @@
 /Users/irsupera/Documents/CMP-1005/Testing/Calculator/obj/Debug/net5.0/Calculator.dll
 /Users/irsupera/Documents/CMP-1005/Testing/Calculator/obj/Debug/net5.0/ref/Calculator.dll
 /Users/irsupera/Documents/CMP-1005/Testing/Calculator/obj/Debug/net5.0/Calculator.pdb
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/bin/Debug/net5.0/Calculator.deps.json
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/bin/Debug/net5.0/Calculator.dll
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/bin/Debug/net5.0/ref/Calculator.dll
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/bin/Debug/net5.0/Calculator.pdb
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/obj/Debug/net5.0/Calculator.csproj.AssemblyReference.cache
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/obj/Debug/net5.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfoInputs.cache
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfo.cs
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/obj/Debug/net5.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/obj/Debug/net5.0/Calculator.dll
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/obj/Debug/net5.0/ref/Calculator.dll
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/obj/Debug/net5.0/Calculator.pdb

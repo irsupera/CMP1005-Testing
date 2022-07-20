@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W+tNbcDaXHGQ1sHR25E0z1Xaa3agHkzeKIAgWTOs4MCtnzjH8RQt90j5V0uL1sbIy+LXcqav4cKNUkdMr9t6PA==",
+  "dgSpecHash": "PuoItk2VRp9CmM7EdhiFo5Q3/Cly8k9JCK953OD2k09dknn/usmHMaHGzedaD82/V1gzUlPUnTxWREWygLuB4w==",
   "success": true,
-  "projectFilePath": "/Users/irsupera/Documents/CMP-1005/Testing/Calculator/Calculator.csproj",
+  "projectFilePath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
