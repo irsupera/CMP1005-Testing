@@ -11,10 +11,9 @@ using Microsoft.AspNetCore.Mvc;
 namespace Calculator_API.Controllers
 {
     [Route("api/[controller]")]
-    public class CalculatorController : Controller
+    public class CalculatorController : ControllerBase
     {
         Calculator calc;
-        
 
         public CalculatorController()
         {

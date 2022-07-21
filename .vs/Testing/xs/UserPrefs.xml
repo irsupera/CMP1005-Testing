@@ -1,43 +1,32 @@
 ﻿<Properties StartupConfiguration="{215FEECF-9611-45FA-B92D-FE442BBFD779}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Testing/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator_API/Controllers/CalculatorController.cs">
     <Files>
-      <File FileName="MSTest/UnitTest1.cs" Line="256" Column="6" />
-      <File FileName="Calculator_API/Controllers/CalculatorController.cs" />
+      <File FileName="Calculator_API/Controllers/CalculatorController.cs" Line="1" Column="1" />
       <File FileName="Calculator_API/Controllers/WeatherForecastController.cs" />
       <File FileName="Calculator_API/WeatherForecast.cs" />
-      <File FileName="Testing/Program.cs" Line="16" Column="1" />
       <File FileName="Calculator_API/Program.cs" />
-      <File FileName="Testing/mono_crash.11a67480d0.0.json" Line="1" Column="1" />
-      <File FileName="Testing/mono_crash.11a67480d0.1.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Testing" expanded="True" selected="True">
+          <Node name="Testing" expanded="True">
             <Node name="Calculator_API" expanded="True">
-              <Node name="Controllers" expanded="True" />
-            </Node>
-            <Node name="Calculator_Logic" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="CalculatorController.cs" selected="True" />
               </Node>
             </Node>
-            <Node name="MSTest" expanded="True" />
-            <Node name="Testing" expanded="True" />
+            <Node name="Calculator_Test" expanded="True" />
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Calculator" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.MSTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Calculator_Logic/Calculator_Logic.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Testing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Calculator__Test PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,0 +1,24 @@
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/bin/Debug/net5.0/Calculator_Logic.deps.json
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/bin/Debug/net5.0/Calculator_Logic.dll
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/bin/Debug/net5.0/ref/Calculator_Logic.dll
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/bin/Debug/net5.0/Calculator_Logic.pdb
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/obj/Debug/net5.0/Calculator_Logic.csproj.AssemblyReference.cache
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/obj/Debug/net5.0/Calculator_Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/obj/Debug/net5.0/Calculator_Logic.AssemblyInfoInputs.cache
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/obj/Debug/net5.0/Calculator_Logic.AssemblyInfo.cs
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/obj/Debug/net5.0/Calculator_Logic.csproj.CoreCompileInputs.cache
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/obj/Debug/net5.0/Calculator_Logic.dll
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/obj/Debug/net5.0/ref/Calculator_Logic.dll
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/obj/Debug/net5.0/Calculator_Logic.pdb
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/Calculator_Logic/bin/Debug/net5.0/Calculator_Logic.deps.json
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/Calculator_Logic/bin/Debug/net5.0/Calculator_Logic.dll
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/Calculator_Logic/bin/Debug/net5.0/ref/Calculator_Logic.dll
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/Calculator_Logic/bin/Debug/net5.0/Calculator_Logic.pdb
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/Calculator_Logic/obj/Debug/net5.0/Calculator_Logic.csproj.AssemblyReference.cache
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/Calculator_Logic/obj/Debug/net5.0/Calculator_Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/Calculator_Logic/obj/Debug/net5.0/Calculator_Logic.AssemblyInfoInputs.cache
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/Calculator_Logic/obj/Debug/net5.0/Calculator_Logic.AssemblyInfo.cs
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/Calculator_Logic/obj/Debug/net5.0/Calculator_Logic.csproj.CoreCompileInputs.cache
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/Calculator_Logic/obj/Debug/net5.0/Calculator_Logic.dll
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/Calculator_Logic/obj/Debug/net5.0/ref/Calculator_Logic.dll
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/Calculator_Logic/obj/Debug/net5.0/Calculator_Logic.pdb
