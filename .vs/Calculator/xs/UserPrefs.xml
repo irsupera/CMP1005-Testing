@@ -1,17 +1,20 @@
-﻿<Properties StartupConfiguration="{215FEECF-9611-45FA-B92D-FE442BBFD779}|Default">
+﻿<Properties StartupConfiguration="{219D1D92-65F7-4791-8C5B-7A92C3343DD8}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Calculator_API/Controllers/CalculatorController.cs">
     <Files>
-      <File FileName="Calculator_API/Controllers/CalculatorController.cs" Line="6" Column="24" />
-      <File FileName="Calculator_API/Controllers/WeatherForecastController.cs" />
-      <File FileName="Calculator_API/WeatherForecast.cs" />
+      <File FileName="Calculator_API/Controllers/CalculatorController.cs" Line="16" Column="9" />
       <File FileName="Calculator_API/Program.cs" />
+      <File FileName="Calculator_Test/UnitTest1.cs" Line="22" Column="21" />
+      <File FileName="Calculator_Logic/Calculator.cs" Line="33" Column="51" />
+      <File FileName="Calculator_API/Startup.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Calculator" expanded="True" selected="True">
+          <Node name="Calculator" expanded="True">
             <Node name="Calculator_API" expanded="True">
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="CalculatorController.cs" selected="True" />
+              </Node>
             </Node>
             <Node name="Calculator_Logic" expanded="True" />
             <Node name="Calculator_Test" expanded="True" />
@@ -20,14 +23,18 @@
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="Testing" expanded="True" selected="True" />
+          <Node name="Calculator" expanded="True" selected="True">
+            <Node name="Calculator_Test" expanded="True">
+              <Node name="Calculator_Test" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <DisabledProjects>
-    <String>Calculator_Logic/Calculator_Logic.csproj</String>
+    <String>MSTest/Calculator_Test.csproj</String>
   </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Calculator__Test PreferredExecutionTarget="MonoDevelop.Default" />
