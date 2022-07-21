@@ -76,14 +76,14 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Calculator/1.0.0": {
+      "Calculator_Logic/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/Calculator.dll": {}
+          "bin/placeholder/Calculator_Logic.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Calculator.dll": {}
+          "bin/placeholder/Calculator_Logic.dll": {}
         }
       }
     }
@@ -196,15 +196,15 @@
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
     },
-    "Calculator/1.0.0": {
+    "Calculator_Logic/1.0.0": {
       "type": "project",
-      "path": "../Calculator/Calculator.csproj",
-      "msbuildProject": "../Calculator/Calculator.csproj"
+      "path": "../Calculator_Logic/Calculator_Logic.csproj",
+      "msbuildProject": "../Calculator_Logic/Calculator_Logic.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Calculator >= 1.0.0",
+      "Calculator_Logic >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -233,8 +233,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/Calculator.csproj": {
-              "projectPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/Calculator.csproj"
+            "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/Calculator_Logic.csproj": {
+              "projectPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/Calculator_Logic.csproj"
             }
           }
         }

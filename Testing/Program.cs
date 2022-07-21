@@ -1,5 +1,5 @@
 ﻿using System;
-using Calculator_logic;
+using Calculator_Logic;
 
 namespace Testing
 {

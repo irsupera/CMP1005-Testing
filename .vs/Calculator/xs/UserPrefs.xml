@@ -1,19 +1,19 @@
 ﻿<Properties StartupConfiguration="{215FEECF-9611-45FA-B92D-FE442BBFD779}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Testing/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MSTest/UnitTest1.cs">
     <Files>
       <File FileName="MSTest/UnitTest1.cs" Line="256" Column="6" />
       <File FileName="Calculator_API/Controllers/CalculatorController.cs" />
       <File FileName="Calculator_API/Controllers/WeatherForecastController.cs" />
       <File FileName="Calculator_API/WeatherForecast.cs" />
-      <File FileName="Testing/Program.cs" Line="16" Column="1" />
+      <File FileName="Testing/Program.cs" />
       <File FileName="Calculator_API/Program.cs" />
-      <File FileName="Testing/mono_crash.11a67480d0.0.json" Line="1" Column="1" />
-      <File FileName="Testing/mono_crash.11a67480d0.1.json" Line="1" Column="1" />
+      <File FileName="Testing/mono_crash.11a67480d0.0.json" />
+      <File FileName="Testing/mono_crash.11a67480d0.1.json" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Testing" expanded="True" selected="True">
+          <Node name="Calculator" expanded="True">
             <Node name="Calculator_API" expanded="True">
               <Node name="Controllers" expanded="True" />
             </Node>
@@ -23,7 +23,7 @@
               </Node>
             </Node>
             <Node name="MSTest" expanded="True" />
-            <Node name="Testing" expanded="True" />
+            <Node name="Testing" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>

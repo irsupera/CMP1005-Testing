@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Threading.Tasks;
-using Calculator_logic;
+using Calculator_Logic;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -12,36 +13,56 @@ namespace Calculator_API.Controllers
     [Route("api/[controller]")]
     public class CalculatorController : Controller
     {
-        // GET: api/values
+        Calculator calc;
+        
+
+        public CalculatorController()
+        {
+            calc = new Calculator();
+        }
+
         [HttpGet]
-        public IEnumerable<string> Get()
+        [Route("add/{left}/{right}")]
+        public double add(double left, double right)
         {
-            return new string[] { "value1", "value2" };
+
+            return calc.Add(left, right);
+
         }
 
-        // GET api/values/5
-        [HttpGet("{id}")]
-        public string Get(int id)
+        [HttpGet]
+        [Route("subtract/{left}/{right}")]
+        public double subtract(double left, double right)
         {
-            return "value";
+
+            return calc.Subtract(left, right);
+
         }
 
-        // POST api/values
-        [HttpPost]
-        public void Post([FromBody] string value)
+        [HttpGet]
+        [Route("multiply/{left}/{right}")]
+        public double multiply(double left, double right)
         {
+
+            return calc.Multiply(left, right);
+
         }
 
-        // PUT api/values/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        [HttpGet]
+        [Route("divide/{left}/{right}")]
+        public ActionResult divide(double left, double right)
         {
+            try
+            {
+                return Ok(calc.Divide(left, right));
+            }
+            catch (Exception ex)
+            {
+                return Problem(detail: ex.Message, statusCode: (int)HttpStatusCode.BadRequest);
+            }
+            
+
         }
 
-        // DELETE api/values/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
     }
 }

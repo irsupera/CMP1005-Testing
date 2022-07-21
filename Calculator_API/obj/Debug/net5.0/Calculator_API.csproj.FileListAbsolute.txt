@@ -26,5 +26,5 @@
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/obj/Debug/net5.0/ref/Calculator_API.dll
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/obj/Debug/net5.0/Calculator_API.pdb
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/obj/Debug/net5.0/Calculator_API.genruntimeconfig.cache
-/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/bin/Debug/net5.0/Calculator.dll
-/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/bin/Debug/net5.0/Calculator.pdb
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/bin/Debug/net5.0/Calculator_Logic.dll
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/bin/Debug/net5.0/Calculator_Logic.pdb

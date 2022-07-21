@@ -1661,14 +1661,14 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "Calculator/1.0.0": {
+      "Calculator_Logic/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/Calculator.dll": {}
+          "bin/placeholder/Calculator_Logic.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Calculator.dll": {}
+          "bin/placeholder/Calculator_Logic.dll": {}
         }
       }
     }
@@ -6114,15 +6114,15 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "Calculator/1.0.0": {
+    "Calculator_Logic/1.0.0": {
       "type": "project",
-      "path": "../Calculator/Calculator.csproj",
-      "msbuildProject": "../Calculator/Calculator.csproj"
+      "path": "../Calculator_Logic/Calculator_Logic.csproj",
+      "msbuildProject": "../Calculator_Logic/Calculator_Logic.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Calculator >= 1.0.0",
+      "Calculator_Logic >= 1.0.0",
       "MSTest.TestAdapter >= 2.2.3",
       "MSTest.TestFramework >= 2.2.3",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
@@ -6154,8 +6154,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/Calculator.csproj": {
-              "projectPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/Calculator.csproj"
+            "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/Calculator_Logic.csproj": {
+              "projectPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/Calculator_Logic.csproj"
             }
           }
         }

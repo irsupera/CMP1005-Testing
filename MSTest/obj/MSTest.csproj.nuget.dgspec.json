@@ -4,14 +4,14 @@
     "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/MSTest/MSTest.csproj": {}
   },
   "projects": {
-    "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/Calculator.csproj": {
+    "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/Calculator_Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/Calculator.csproj",
-        "projectName": "Calculator",
-        "projectPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/Calculator.csproj",
+        "projectUniqueName": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/Calculator_Logic.csproj",
+        "projectName": "Calculator_Logic",
+        "projectPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/Calculator_Logic.csproj",
         "packagesPath": "/Users/irsupera/.nuget/packages/",
-        "outputPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/obj/",
+        "outputPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/irsupera/.config/NuGet/NuGet.Config"
@@ -78,8 +78,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/Calculator.csproj": {
-                "projectPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/Calculator.csproj"
+              "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/Calculator_Logic.csproj": {
+                "projectPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/Calculator_Logic.csproj"
               }
             }
           }

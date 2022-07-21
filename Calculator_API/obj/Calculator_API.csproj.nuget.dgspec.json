@@ -4,14 +4,79 @@
     "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/Calculator_API.csproj": {}
   },
   "projects": {
-    "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/Calculator.csproj": {
+    "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/Calculator_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/Calculator.csproj",
-        "projectName": "Calculator",
-        "projectPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/Calculator.csproj",
+        "projectUniqueName": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/Calculator_API.csproj",
+        "projectName": "Calculator_API",
+        "projectPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/Calculator_API.csproj",
         "packagesPath": "/Users/irsupera/.nuget/packages/",
-        "outputPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/obj/",
+        "outputPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/irsupera/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/Calculator_Logic.csproj": {
+                "projectPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/Calculator_Logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/Calculator_Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/Calculator_Logic.csproj",
+        "projectName": "Calculator_Logic",
+        "projectPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/Calculator_Logic.csproj",
+        "packagesPath": "/Users/irsupera/.nuget/packages/",
+        "outputPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/irsupera/.config/NuGet/NuGet.Config"
@@ -48,71 +113,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/Calculator_API.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/Calculator_API.csproj",
-        "projectName": "Calculator_API",
-        "projectPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/Calculator_API.csproj",
-        "packagesPath": "/Users/irsupera/.nuget/packages/",
-        "outputPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/irsupera/.config/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {
-              "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/Calculator.csproj": {
-                "projectPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator/Calculator.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[5.6.3, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
