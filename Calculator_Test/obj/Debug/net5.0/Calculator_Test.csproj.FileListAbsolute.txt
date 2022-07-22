@@ -109,7 +109,6 @@
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Test/bin/Debug/net5.0/Calculator_Test.runtimeconfig.json
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Test/bin/Debug/net5.0/Calculator_Test.runtimeconfig.dev.json
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Test/bin/Debug/net5.0/Calculator_Test.dll
-/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Test/bin/Debug/net5.0/ref/Calculator_Test.dll
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Test/bin/Debug/net5.0/Calculator_Test.pdb
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Test/bin/Debug/net5.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Test/bin/Debug/net5.0/Microsoft.TestPlatform.CoreUtilities.dll
@@ -200,3 +199,4 @@
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Test/obj/Debug/net5.0/ref/Calculator_Test.dll
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Test/obj/Debug/net5.0/Calculator_Test.pdb
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Test/obj/Debug/net5.0/Calculator_Test.genruntimeconfig.cache
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Test/obj/Debug/net5.0/refint/Calculator_Test.dll

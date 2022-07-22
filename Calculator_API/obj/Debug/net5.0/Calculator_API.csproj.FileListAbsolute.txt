@@ -4,7 +4,6 @@
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/bin/Debug/net5.0/Calculator_API.runtimeconfig.json
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/bin/Debug/net5.0/Calculator_API.runtimeconfig.dev.json
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/bin/Debug/net5.0/Calculator_API.dll
-/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/bin/Debug/net5.0/ref/Calculator_API.dll
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/bin/Debug/net5.0/Calculator_API.pdb
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/bin/Debug/net5.0/Microsoft.OpenApi.dll
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
@@ -18,7 +17,6 @@
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/obj/Debug/net5.0/Calculator_API.MvcApplicationPartsAssemblyInfo.cs
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/obj/Debug/net5.0/Calculator_API.MvcApplicationPartsAssemblyInfo.cache
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/obj/Debug/net5.0/staticwebassets/Calculator_API.StaticWebAssets.Manifest.cache
-/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/obj/Debug/net5.0/staticwebassets/Calculator_API.StaticWebAssets.xml
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/obj/Debug/net5.0/scopedcss/bundle/Calculator_API.styles.css
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/obj/Debug/net5.0/Calculator_API.RazorTargetAssemblyInfo.cache
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/obj/Debug/net5.0/Calculator_API.csproj.CopyComplete
@@ -58,3 +56,6 @@
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/Calculator_API/obj/Debug/net5.0/ref/Calculator_API.dll
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/Calculator_API/obj/Debug/net5.0/Calculator_API.pdb
 /Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/Calculator_API/obj/Debug/net5.0/Calculator_API.genruntimeconfig.cache
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/bin/Debug/net5.0/Calculator_API.StaticWebAssets.xml
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/bin/Debug/net5.0/Calculator_API
+/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_API/obj/Debug/net5.0/refint/Calculator_API.dll

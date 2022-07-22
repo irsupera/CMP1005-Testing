@@ -13,10 +13,12 @@ namespace Calculator_API.Controllers
     [Route("api/[controller]")]
     public class CalculatorController : ControllerBase
     {
+        //declare calc object
         Calculator calc;
 
         public CalculatorController()
         {
+            //initialize calc object within the constructor
             calc = new Calculator();
         }
 
@@ -24,7 +26,7 @@ namespace Calculator_API.Controllers
         [Route("add/{left}/{right}")]
         public double add(double left, double right)
         {
-
+            //pass the sum of left and right parameters 
             return calc.Add(left, right);
 
         }
@@ -33,7 +35,7 @@ namespace Calculator_API.Controllers
         [Route("subtract/{left}/{right}")]
         public double subtract(double left, double right)
         {
-
+            //pass the difference of left and right parameters 
             return calc.Subtract(left, right);
 
         }
@@ -42,7 +44,7 @@ namespace Calculator_API.Controllers
         [Route("multiply/{left}/{right}")]
         public double multiply(double left, double right)
         {
-
+            //pass the product of left and right parameters 
             return calc.Multiply(left, right);
 
         }
@@ -53,10 +55,12 @@ namespace Calculator_API.Controllers
         {
             try
             {
+                //pass the qoutient of left and right parameters 
                 return Ok(calc.Divide(left, right));
             }
             catch (Exception ex)
             {
+                //throw standard exception error
                 return Problem(detail: ex.Message, statusCode: (int)HttpStatusCode.BadRequest);
             }
             

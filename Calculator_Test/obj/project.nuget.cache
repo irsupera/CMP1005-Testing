@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fVO0QH2miOkmMysRy8Mx1u0rUjjLLPJIHum9Pd1zfqBRqu2OfqbSfomOzoNBSS6J1oLAZkGzEmRO0cdblisLdA==",
+  "dgSpecHash": "BpGXg5z4WZC/aSFg/9YJ/x3NPDv/HfPD5fkiV5ZrQEmFlLTJwhb+NwZryJFl0n9s7JuP7p85j9Rv98Jhd+6GOA==",
   "success": true,
-  "projectFilePath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/MSTest/Calculator_Test.csproj",
+  "projectFilePath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Test/Calculator_Test.csproj",
   "expectedPackageFiles": [
     "/Users/irsupera/.nuget/packages/coverlet.collector/3.0.2/coverlet.collector.3.0.2.nupkg.sha512",
     "/Users/irsupera/.nuget/packages/microsoft.codecoverage/16.9.4/microsoft.codecoverage.16.9.4.nupkg.sha512",

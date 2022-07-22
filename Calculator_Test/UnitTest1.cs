@@ -7,15 +7,17 @@ namespace Calculator_Test
     [TestClass]
     public class UnitTest1
     {
+        //Calculator object
         Calculator calc = new Calculator();
 
+        //Calculator initialization test method
         [TestMethod]
         public void CalcClassIsInstantiable()
         {
             Assert.IsNotNull(calc);
         }
 
-        //Addition
+        //Addition test methods
 
         [TestMethod]
         [DataRow(3, 2, 1)]
@@ -73,7 +75,21 @@ namespace Calculator_Test
             Assert.AreEqual(expected, calc.Add(left, right));
         }
 
-        //Subtraction
+        [TestMethod]
+        [DataRow(3.1, 1, 2.1)]
+        public void CalcCanAddOneIntegerNumberAndOneDecimalNumber(double expected, double left, double right)
+        {
+            Assert.AreEqual(expected, calc.Add(left, right));
+        }
+
+        [TestMethod]
+        [DataRow(0, -Math.PI, Math.PI)]
+        public void CalcCanAddTwoOpositeSignsIrrationalNumber(double expected, double left, double right)
+        {
+            Assert.AreEqual(expected, calc.Add(left, right));
+        }
+
+        //Subtraction test methods
 
         [TestMethod]
         [DataRow(1, 2, 1)]
@@ -98,7 +114,7 @@ namespace Calculator_Test
 
         [TestMethod]
         [DataRow(3, 2, -1)]
-        public void CalcSubtractAddTwoOpositeSignsIntegerNumbersWithNegativeRight(double expected, double left, double right)
+        public void CalcCanSubtractTwoOpositeSignsIntegerNumbersWithNegativeRight(double expected, double left, double right)
         {
             Assert.AreEqual(expected, calc.Subtract(left, right));
         }
@@ -131,7 +147,21 @@ namespace Calculator_Test
             Assert.AreEqual(expected, calc.Subtract(left, right));
         }
 
-        //Multiplication
+        [TestMethod]
+        [DataRow(-1.1, 1, 2.1)]
+        public void CalcCanSubtractOneIntegerNumberAndOneDecimalNumber(double expected, double left, double right)
+        {
+            Assert.AreEqual(expected, calc.Subtract(left, right));
+        }
+
+        [TestMethod]
+        [DataRow(-Math.PI, 0, Math.PI)]
+        public void CalcCanSubtractZeroAndIrrationalNumber(double expected, double left, double right)
+        {
+            Assert.AreEqual(expected, calc.Subtract(left, right));
+        }
+
+        //Multiplication test methods
 
         [TestMethod]
         [DataRow(2, 2, 1)]
@@ -156,7 +186,7 @@ namespace Calculator_Test
 
         [TestMethod]
         [DataRow(-2, 2, -1)]
-        public void CalcMultiplyAddTwoOpositeSignsIntegerNumbersWithNegativeRight(double expected, double left, double right)
+        public void CalcCanMultiplyAddTwoOpositeSignsIntegerNumbersWithNegativeRight(double expected, double left, double right)
         {
             Assert.AreEqual(expected, calc.Multiply(left, right));
         }
@@ -189,7 +219,21 @@ namespace Calculator_Test
             Assert.AreEqual(expected, calc.Multiply(left, right));
         }
 
-        //Division
+        [TestMethod]
+        [DataRow(2.1, 2.1, 1)]
+        public void CalcCanMultiplyANumberByOneResultsANumber(double expected, double left, double right)
+        {
+            Assert.AreEqual(expected, calc.Multiply(left, right));
+        }
+
+        [TestMethod]
+        [DataRow(0, 2.1, 0)]
+        public void CalcCanMultiplyANumberByZeroResultsZero(double expected, double left, double right)
+        {
+            Assert.AreEqual(expected, calc.Multiply(left, right));
+        }
+
+        //Division test methods
 
         [TestMethod]
         [DataRow(2, 2, 1)]
@@ -214,7 +258,7 @@ namespace Calculator_Test
 
         [TestMethod]
         [DataRow(-2, 2, -1)]
-        public void CalcDivideAddTwoOpositeSignsIntegerNumbersWithNegativeRight(double expected, double left, double right)
+        public void CalcCanDivideTwoOpositeSignsIntegerNumbersWithNegativeRight(double expected, double left, double right)
         {
             Assert.AreEqual(expected, calc.Divide(left, right));
         }
@@ -245,6 +289,13 @@ namespace Calculator_Test
         public void CalcCanDivideTwoOpositeSignsDecimalNumbersWithNegativeRight(double expected, double left, double right)
         {
             Assert.AreEqual(expected, calc.Divide(left, right));
+        }
+
+        [TestMethod]
+        [DataRow(0, 0, 1)]
+        public void CalcCanDivideZeroByANumberResultsZero(double expected, double left, double right)
+        {
+            Assert.AreEqual(expected, calc.Multiply(left, right));
         }
 
         [TestMethod]

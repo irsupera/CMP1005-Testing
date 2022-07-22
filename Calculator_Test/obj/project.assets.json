@@ -6135,14 +6135,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/MSTest/Calculator_Test.csproj",
+      "projectUniqueName": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Test/Calculator_Test.csproj",
       "projectName": "Calculator_Test",
-      "projectPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/MSTest/Calculator_Test.csproj",
+      "projectPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Test/Calculator_Test.csproj",
       "packagesPath": "/Users/irsupera/.nuget/packages/",
-      "outputPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/MSTest/obj/",
+      "outputPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/irsupera/.config/NuGet/NuGet.Config"
+        "/Users/irsupera/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -6154,8 +6154,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/Calculator_Logic/Calculator_Logic.csproj": {
-              "projectPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing copy/Calculator_Logic/Calculator_Logic.csproj"
+            "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/Calculator_Logic.csproj": {
+              "projectPath": "/Users/irsupera/Documents/CMP-1005/CMP1005-Testing/Calculator_Logic/Calculator_Logic.csproj"
             }
           }
         }
@@ -6202,7 +6202,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }
